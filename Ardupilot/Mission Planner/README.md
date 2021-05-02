@@ -41,4 +41,4 @@ Tiếp theo, phần mềm sẽ nhận diện bạn đang sử dụng mạch nào
 ## Cài đặt kết nối
 
 
-<p align="center"><img src="https://ardupilot.org/planner/_images/Pixhawk_InstallFirmware2.png"></p>
+<p align="center"><img src="https://ardupilot.org/planner/_images/pixhawk_usb_connection.jpg"></p>
