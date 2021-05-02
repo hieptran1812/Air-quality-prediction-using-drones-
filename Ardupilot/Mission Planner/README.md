@@ -40,7 +40,7 @@ Tiếp theo, phần mềm sẽ nhận diện bạn đang sử dụng mạch nào
 
 ## Cài đặt kết nối
 
-Để thiết lập kêt nối, bạn phải chọn cách thức/ kênh giao tiếp. Sau đó set up phần cứng và Window device drivers. Ta không thể kết nối PC với autopilot bằng cap USB, Bluetooth, kết nối IP.
+Để thiết lập kêt nối, bạn phải chọn cách thức/ kênh giao tiếp. Sau đó set up phần cứng và Window device drivers. Ta có thể kết nối PC với autopilot bằng cap USB, Bluetooth, kết nối IP.
 
 <p align="center"><img src="https://ardupilot.org/planner/_images/pixhawk_usb_connection.jpg"></p>
 _Pixhawk USB Connection_
